@@ -28,6 +28,10 @@ The agent reasons over the codebase step by step — searching for relevant file
 
 (Renamed from the toolkit's defaults `"Search code"` / `"Read File"` — Gemini's function-calling API rejects tool names containing spaces.)
 
+## References
+
+- [GitHubToolkit — LangChain API Reference](https://reference.langchain.com/python/langchain-community/agent_toolkits/github/toolkit/GitHubToolkit)
+
 ## Setup
 
 1. **Create a GitHub App** at [github.com/settings/apps/new](https://github.com/settings/apps/new)
